@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.6063cd4b.css",
   "main.css.map": "static/css/main.6063cd4b.css.map",
-  "main.js": "static/js/main.97c8a74c.js",
-  "main.js.map": "static/js/main.97c8a74c.js.map",
+  "main.js": "static/js/main.310b6d77.js",
+  "main.js.map": "static/js/main.310b6d77.js.map",
   "static\\media\\algo.jpg": "static/media/algo.59ff216c.jpg",
   "static\\media\\bear.jpeg": "static/media/bear.f60c9b64.jpeg",
   "static\\media\\cat.png": "static/media/cat.69e6300b.png",
@@ -10,6 +10,7 @@
   "static\\media\\linkkeys.jpg": "static/media/linkkeys.022c2a70.jpg",
   "static\\media\\me.jpg": "static/media/me.e9ea4568.jpg",
   "static\\media\\na.jpg": "static/media/na.ffe3e282.jpg",
+  "static\\media\\paper.jpg": "static/media/paper.2164689a.jpg",
   "static\\media\\shortener.jpg": "static/media/shortener.3ddc3b87.jpg",
   "static\\media\\weather.jpg": "static/media/weather.7a1c62dc.jpg"
 }
